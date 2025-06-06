@@ -1,2 +1,2 @@
-# Gorilla-Tag-Fixed-Bark-Menu
-Gorilla Tags Fixed Bark Menu
+# Gorilla-Tag-Fixed-Mods
+Gorilla Tags Fixed Mods
